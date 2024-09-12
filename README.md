@@ -5,3 +5,5 @@ These codes include the use of the Monte Carlo method to select the optimal NIR 
 Monte Cralo Method: https://inverselight.github.io/ValoMC/
 k-Wave: http://www.k-wave.org/acousticsoftware.php
 Minivess: https://github.com/ctpn/minivess
+![image](https://github.com/tiemingliu/Monte-Carlo-simulation/blob/main/Figure5.png)
+![image](https://github.com/tiemingliu/Monte-Carlo-simulation/blob/main/Figure_compare.png)
