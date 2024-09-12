@@ -10,4 +10,4 @@ For example, using Monte Carlo simulation to find optimal wavelength range:
 For example, using Monte Carlo simulation to find optimal incident angle:
 ![image](https://github.com/tiemingliu/Monte-Carlo-simulation/blob/main/incident%20angle.png)
 For example, using k-Wave to perform photoacoustic reconstruction
-![image](https://github.com/tiemingliu/Monte-Carlo-simulation/blob/main/Figure_compare.pdf)
+![image](https://github.com/tiemingliu/Monte-Carlo-simulation/blob/main/photoacoustic%20reconstruction.png)
